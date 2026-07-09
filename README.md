@@ -144,7 +144,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Navadeepa**
+**Sruthi Divakarla**
 
 GitHub: https://github.com/SruthiD-05
 
