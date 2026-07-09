@@ -146,7 +146,7 @@ This project is licensed under the MIT License.
 
 **Navadeepa**
 
-GitHub: https://github.com/navadeepa05
+GitHub: https://github.com/SruthiD-05
 
 ---
 
